@@ -1,76 +1,75 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=232F3E&height=150&section=header&text=Jinesh%20Patel&fontSize=70&fontColor=FF9900&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=232F3E&height=200&section=header&text=Jinesh%20Patel&fontSize=70&fontColor=FF9900&animation=fadeIn" />
 
-  ### 🛠️ Backend Systems Engineer | MSCS @ Georgia Tech
-  **Specializing in High-Availability Infrastructure & Scalable Data Pipelines**
+  ### 🚀 Backend Systems Engineer | MSCS @ Georgia Tech
+  **Scalable Infrastructure • Distributed Systems • Health Informatics**
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jineshptl/)
-  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:Pateljinesh180@gmail.com)
-  [![AWS Certified](https://img.shields.io/badge/AWS-Infrastructure-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://github.com/jineshptl)
+  <p align="center">
+    <a href="https://www.linkedin.com/in/jineshptl/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
+    <a href="mailto:Pateljinesh180@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail" /></a>
+    <a href="https://github.com/jineshptl?tab=repositories&sort=stargazers"><img src="https://img.shields.io/badge/-High%20Impact%20Projects-FF9900?style=for-the-badge&logo=github&logoColor=white" /></a>
+  </p>
 </div>
 
 ---
 
-### 💡 Executive Summary: "Ownership & Scale"
-> *"I don't just write code; I build resilient systems. My transition from IT Administration to Backend Engineering gives me a unique perspective on full-stack reliability and operational excellence."*
-
-I am a **Systems-Obsessed Engineer** focused on building the "plumbing" of the modern web. Whether it’s optimizing **Big Data ETL** on Spark or architecting **HIPAA-compliant** microservices, I prioritize **latency, cost-optimization, and decoupled architecture.**
+### ⚡ Operational Excellence & Velocity
+> *"I treat infrastructure as code and data as a strategic asset. My focus is on reducing latency and maximizing system reliability at scale."*
 
 ---
 
-### 🧰 Technical Arsenal (Optimized for AWS/Cloud)
+### 🏗️ Dynamic Showroom (Live Stats)
+*These cards update automatically based on your latest activity and top-starred work.*
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,flask,aws,docker,kubernetes,terraform,postgres,githubactions,linux,bash" />
+  <a href="https://github.com/jineshptl/grid-disruption-analysis">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=jineshptl&repo=grid-disruption-analysis&theme=amazon&title_color=FF9900&icon_color=FF9900" />
+  </a>
+  <a href="https://github.com/jineshptl/GA-Tech---PySpark-NYC-Yellow-Taxi-Datasets">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=jineshptl&repo=GA-Tech---PySpark-NYC-Yellow-Taxi-Datasets&theme=amazon&title_color=FF9900&icon_color=FF9900" />
+  </a>
 </div>
 
-| Category | Leadership in Tech |
-| :--- | :--- |
-| **Distributed Systems** | PySpark, Hadoop, AWS S3, Spark SQL, ETL Orchestration |
-| **Cloud Native** | Infrastructure as Code (Terraform), Docker, EKS/K8s, CI/CD Pipelines |
-| **API Architecture** | Flask, RESTful Design, Async Processing, Secure Auth (OAuth2) |
-| **Data Standards** | HL7 FHIR, OMOP CDM, SQL Schema Optimization, SMART on FHIR |
+<div align="center">
+  <a href="https://github.com/jineshptl/FHIR-RAG-Clinical-AI-Integration">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=jineshptl&repo=FHIR-RAG-Clinical-AI-Integration&theme=amazon&title_color=FF9900&icon_color=FF9900" />
+  </a>
+  <a href="https://github.com/jineshptl/GA-Tech-Dockerized--Sleep-Pattern--Analysis--Dashboard">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=jineshptl&repo=GA-Tech-Dockerized--Sleep-Pattern--Analysis--Dashboard&theme=amazon&title_color=FF9900&icon_color=FF9900" />
+  </a>
+</div>
 
 ---
 
-### 🏗️ Engineering Case Studies (The "Amazon Way")
+### 🛠️ Technical Stack (Visualized)
 
-#### 🚀 **Grid Disruption Forecasting | Outage ML Ops**
-*Focus: Operational Excellence & Data-Driven Decision Making*
-- **The Challenge:** Predicting infrastructure failures to prevent downtime.
-- **The Solution:** Engineered an ensemble ML pipeline (XGBoost/LGBM) achieving a **0.94 F1-score**.
-- **The Impact:** Reduced "Mean Time to Detection" (MTTD) via real-time interactive geospatial dashboards.
-
-#### 🏥 **Clinical RAG Integration | GenAI + FHIR**
-*Focus: Invent & Simplify*
-- **The Challenge:** Extracting insights from unstructured AI queries against structured clinical data.
-- **The Solution:** Built a **Retrieval-Augmented Generation (RAG)** pipeline using OpenAI and FHIR bundles.
-- **The Impact:** Streamlined medical record analysis for clinicians, reducing manual data-wrangling time.
-
-#### 🚕 **Distributed ETL: NYC Taxi Analysis | Big Data**
-*Focus: Deliver Results & Frugality*
-- **The Challenge:** Processing 10M+ rows of trip data with minimal compute cost.
-- **The Solution:** Optimized distributed transforms using **PySpark** and Hadoop on cloud clusters.
-- **The Impact:** Identified high-traffic bottlenecks while maintaining 100% cost-accountability on cloud spend.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,flask,aws,docker,kubernetes,terraform,postgres,maven,githubactions,linux,bash" />
+</div>
 
 ---
 
-### 📊 Engineering Velocity
+### 📈 Engineering Throughput
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jineshptl&show_icons=true&theme=amazon&hide_border=true&title_color=FF9900&icon_color=FF9900&border_radius=10" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jineshptl&layout=compact&theme=amazon&hide_border=true&title_color=FF9900&border_radius=10" />
+</p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jineshptl&show_icons=true&theme=amazon&hide_border=true&title_color=FF9900&icon_color=FF9900" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jineshptl&layout=compact&theme=amazon&hide_border=true&title_color=FF9900" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jineshptl&theme=amazon&hide_border=true&stroke=FF9900&ring=FF9900&fire=FF9900" width="100%" />
 </p>
 
 ---
 
-### 🎓 Qualifications & "Day 1" Mindset
-- **MS in Computer Science** | Georgia Institute of Technology (Focus: Big Data & Health Tech)
+### 🎓 Qualifications
+- **MS in Computer Science** | Georgia Institute of Technology 
 - **BS in Computer Science** | Framingham State University
-- **ServiceNow Certified System Administrator** (CSA)
+- **ServiceNow Certified System Administrator**
+
+---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jineshptl/jineshptl/output/snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/jineshptl/jineshptl/output/snake.svg" alt="snake animation" width="100%" />
   <br />
-  <b>"Still Day 1."</b>
+  <b>"Work Hard. Have Fun. Make History."</b>
 </div>
