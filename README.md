@@ -1,113 +1,80 @@
-<!-- README.md for GitHub profile repo: jineshptl/jineshptl -->
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Backend+Engineer+%7C+Python+%E2%80%A2+Flask+%E2%80%A2+SQL+%E2%80%A2+AWS+%E2%80%A2+Azure;Building+secure%2C+scalable+systems;Automation+%7C+Cloud+Migration+%7C+Data+%26+ML+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Backend+Engineer+%7C+Python+%E2%80%A2+Flask+%E2%80%A2+Cloud;Building+Scalable+Health+Tech+%26+Data+Pipelines;MS+Computer+Science+@+Georgia+Tech" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hi, I'm Jinesh Patel 👋</h1>
 
 <p align="center">
-  <a href="mailto:Pateljinesh180@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/jineshptl/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:Pateljinesh180@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jineshptl/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://github.com/jineshptl"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.upwork.com/freelancers/~013150b357f08aafc3"><img src="https://img.shields.io/badge/Upwork-Open%20to%20Projects-brightgreen?style=for-the-badge&logo=upwork" /></a>
+</p>
+
+---
+
+### 🚀 Professional Summary
+I am a **Multidisciplinary Backend Engineer** and **MSCS student at Georgia Tech** specializing in the intersection of **Cloud Infrastructure**, **Data Engineering**, and **Healthcare Interoperability**. 
+
+Coming from a background in Systems Administration, I bridge the gap between "it works on my machine" and "it scales in production." I specialize in building HIPAA-aware healthcare applications (FHIR/OMOP) and high-throughput data pipelines.
+
+- 🎓 **Currently:** MS in Computer Science @ **Georgia Institute of Technology**
+- 🛠️ **Expertise:** Backend Systems (Python/Flask), Cloud Architecture (AWS/Azure), & Healthcare Data Standards.
+- 🧪 **Focus:** Designing RAG-based AI integrations for clinical data and high-F1 ML models for infrastructure reliability.
+
+---
+
+### 🧰 Technical Arsenal
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python, SQL (PostgreSQL/MySQL), Java, C++, JavaScript |
+| **Backend & Data** | Flask, PySpark, Pandas, NumPy, D3.js, ETL Pipelines |
+| **Cloud & DevOps** | AWS, Azure, Docker, Kubernetes, Terraform, GitHub Actions, Jenkins |
+| **Healthcare Tech** | HL7 FHIR, HAPI FHIR, OMOP CDM, SMART on FHIR |
+| **Systems** | ServiceNow (Certified Admin), Linux (RHEL/Ubuntu), Bash Scripting |
+
+---
+
+### 🔬 Featured Engineering Projects
+
+#### ⚡ [Grid Disruption Analysis](https://github.com/jineshptl/grid-disruption-analysis) (Full-Stack ML)
+*Predictive maintenance platform for power infrastructure.*
+- **Tech:** Flask, XGBoost, Prophet, Docker, GitHub Actions.
+- **Impact:** Achieved a **0.94 F1-score** for outage forecasting and deployed an interactive geospatial dashboard for real-time monitoring.
+
+#### 🏥 [FHIR-RAG-Clinical-AI](https://github.com/jineshptl/FHIR-RAG-Clinical-AI-Integration) (GenAI + HealthTech)
+*Bridging LLMs and structured clinical data.*
+- **Tech:** Python, OpenAI API, FHIR Bundles, RAG (Retrieval-Augmented Generation).
+- **Impact:** Implemented a pipeline to extract actionable clinical insights from raw FHIR bundles using LLMs, ensuring data-context accuracy.
+
+#### 🚕 [Big Data ETL: NYC Taxi Analysis](https://github.com/jineshptl/GA-Tech---PySpark-NYC-Yellow-Taxi-Datasets) (Data Engineering)
+*Distributed processing of massive datasets.*
+- **Tech:** PySpark, Hadoop, AWS S3, Spark SQL.
+- **Impact:** Processed millions of rows of NYC trip data to identify high-density traffic patterns and optimize compute costs on cloud clusters.
+
+---
+
+### 📈 Proof of Work
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jineshptl&show_icons=true&theme=transparent&rank_icon=github&border_radius=10" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jineshptl&layout=compact&langs_count=8&theme=transparent&border_radius=10" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jineshptl&style=for-the-badge&label=Profile+Views" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/jineshptl?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/jineshptl?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jineshptl&theme=react-dark&radius=10" width="100%" />
 </p>
 
 ---
 
-### 🚀 About Me
-•⁠  ⁠🎓 *MS CS @ Georgia Tech (Jan 2025–Present)*, BS CS @ Framingham State  
-•⁠  ⁠🛠️ Transitioned from *IT Admin → Backend Engineer; I ship **automation, **cloud migration, and **data-heavy APIs* that cut costs and boost reliability  
-•⁠  ⁠🧪 I build *Flask/REST* backends, craft *ETL/data pipelines, and deploy to **AWS/Azure/GCP* with CI/CD  
-•⁠  ⁠✅ Notable: ML outage forecaster with *F1 0.94*, interactive analytics, infra as code, and HIPAA-aware ops
+### 🤝 Let's Connect
+I'm currently open to **Backend, Data, or Cloud Engineering** roles where I can apply my experience in secure, scalable systems.
 
----
+- 💬 Ask me about **FHIR interoperability** or **Cloud Automation**.
+- 📫 How to reach me: **Pateljinesh180@gmail.com**
+- ⚡ Fun fact: I transitioned from managing physical data centers to architecting virtual ones in the cloud.
 
-### 🧰 Tech Stack
-*Languages:* Python, SQL, Java, C++, JavaScript  
-*Frameworks:* Flask, React, Node.js, Pandas, NumPy, Matplotlib, D3.js, Bootstrap  
-*Cloud/DevOps:* AWS, Azure, GCP, Docker, Kubernetes, Terraform, GitHub Actions, Jenkins  
-*Data:* MySQL, PostgreSQL, SQLite • ETL Pipelines • Data Warehousing • Modeling  
-*Tools:* Git, Postman, ServiceNow, Tableau, Power BI
-
-<p>
-  <img height="28" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-  <img height="28" src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=white"/>
-  <img height="28" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white"/>
-  <img height="28" src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white"/>
-  <img height="28" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
-  <img height="28" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"/>
-  <img height="28" src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white"/>
-  <img height="28" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
-  <img height="28" src="https://img.shields.io/badge/ServiceNow-1DB954?logo=servicenow&logoColor=white"/>
-</p>
-
----
-
-### 🏆 Highlights Recruiters Care About
-•⁠  ⁠*Backend + Data:* Flask APIs, robust schema design, and async ETL for production workloads  
-•⁠  ⁠*Cloud Reliability:* IaC with Terraform; Docker/K8s; observability & cost controls  
-•⁠  ⁠*Security & Compliance:* Azure AD/Intune administration; *HIPAA-aware* policies in healthcare environments  
-•⁠  ⁠*Leadership:* Cross-functional stakeholder management, vendor coordination, and Agile delivery
-
----
-
-### 🔬 Selected Projects
-•⁠  ⁠*Grid Disruption Analysis – ML web app*  
-  Flask • REST • Plotly • SMOTE • XGBoost/LightGBM • Prophet • Isolation Forest  
-  - Interactive dashboards (choropleth, heatmap, time-series) and *F1 0.94* forecasting  
-  - CI/CD with GitHub Actions & Docker; pytest coverage
-
-•⁠  ⁠*Data & Visual Analytics with PySpark – Cloud ETL*  
-  PySpark • TMDB API • AWS & GCP  
-  - Distributed transforms/aggregations; API ingestion → SQLite; cost-optimized compute
-
-	⁠📌 Pin your repos below (rename to your actual repo slugs):
-<p>
-  <a href="https://github-readme-stats.vercel.app/api/pin/?username=jineshptl&repo=grid-disruption-analysis"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=jineshptl&repo=grid-disruption-analysis" /></a>
-  <a href="https://github-readme-stats.vercel.app/api/pin/?username=jineshptl&repo=pyspark-data-visual-analytics"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=jineshptl&repo=pyspark-data-visual-analytics" /></a>
-</p>
-
----
-
-### 📈 GitHub Metrics
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jineshptl&show_icons=true&theme=default&rank_icon=github" />
-  <img height="165" src="https://streak-stats.demolab.com?user=jineshptl&date_format=j%20M%5B%20Y%5D" />
-</p>
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jineshptl&layout=compact&langs_count=10" />
-  <img height="165" src="https://github-profile-trophy.vercel.app/?username=jineshptl&margin-w=5&margin-h=5" />
-</p>
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jineshptl&radius=8" />
-</p>
-
----
-
-### 🎓 Certifications
-•⁠  ⁠ServiceNow *Certified System Administrator* (ID: 26990551)
-
----
-
-### 🤝 Open to Roles
-*Backend Engineer / Data Engineer / Cloud Engineer* (US-remote or onsite)  
-📧 *Email:* Pateljinesh180@gmail.com • 💼 *LinkedIn:* /in/jineshptl • 🧑‍💻 *Upwork:* See banner above
-
----
-
-<!-- Snake contribution graph (generated by GitHub Action below) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/jineshptl/jineshptl/output/snake.svg" alt="snake animation"/>
 </p>
 
-<!-- Footer CTA -->
-<p align="center"><i>Let’s build something reliable, secure, and fast.</i></p>
+<p align="center"><i>Building the future of reliable and secure data systems.</i></p>
