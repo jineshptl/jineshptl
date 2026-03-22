@@ -1,79 +1,76 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Jinesh%20Patel&fontSize=80&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=232F3E&height=150&section=header&text=Jinesh%20Patel&fontSize=70&fontColor=FF9900&animation=fadeIn" />
 
-  <p align="center">
-    <b>Backend Architect | Cloud Infrastructure | MSCS @ Georgia Tech</b>
-  </p>
-
-  <p align="center">
-    <a href="https://www.linkedin.com/in/jineshptl/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:Pateljinesh180@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-    <a href="https://www.upwork.com/freelancers/~013150b357f08aafc3"><img src="https://img.shields.io/badge/-Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white" /></a>
-  </p>
+  ### 🛠️ Backend Systems Engineer | MSCS @ Georgia Tech
+  **Specializing in High-Availability Infrastructure & Scalable Data Pipelines**
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jineshptl/)
+  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:Pateljinesh180@gmail.com)
+  [![AWS Certified](https://img.shields.io/badge/AWS-Infrastructure-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://github.com/jineshptl)
 </div>
 
 ---
 
-### 🖋️ The Mission
-> "I specialize in the 'Heavy Lifting' of software—designing the data pipelines, cloud infrastructure, and backend logic that power secure, high-stakes industries like Healthcare and Energy."
+### 💡 Executive Summary: "Ownership & Scale"
+> *"I don't just write code; I build resilient systems. My transition from IT Administration to Backend Engineering gives me a unique perspective on full-stack reliability and operational excellence."*
 
-As a **Master's student at Georgia Tech**, I'm currently focused on **Health Informatics (FHIR/OMOP)** and **Big Data Engineering**. My background as a Systems Administrator gives me a unique "Under-the-Hood" perspective on how to build software that isn't just functional, but **resilient and cost-efficient**.
+I am a **Systems-Obsessed Engineer** focused on building the "plumbing" of the modern web. Whether it’s optimizing **Big Data ETL** on Spark or architecting **HIPAA-compliant** microservices, I prioritize **latency, cost-optimization, and decoupled architecture.**
 
 ---
 
-### 🛠️ Specialized Tech Stack
+### 🧰 Technical Arsenal (Optimized for AWS/Cloud)
 
-| Domain | Proficiency |
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,flask,aws,docker,kubernetes,terraform,postgres,githubactions,linux,bash" />
+</div>
+
+| Category | Leadership in Tech |
 | :--- | :--- |
-| **Core Development** | `Python` `Java` `C++` `SQL` `Flask` `Node.js` |
-| **Cloud & Scale** | `AWS` `Azure` `GCP` `Docker` `Kubernetes` `Terraform` |
-| **Data Engineering** | `PySpark` `Hadoop` `PostgreSQL` `ETL Pipelines` `D3.js` |
-| **Health Tech** | `HL7 FHIR` `HAPI FHIR` `OMOP CDM` `SMART on FHIR` |
-
-<div align="center">
-  <br />
-  <img src="https://skillicons.dev/icons?i=python,flask,aws,azure,docker,kubernetes,terraform,postgres,maven,githubactions" />
-</div>
+| **Distributed Systems** | PySpark, Hadoop, AWS S3, Spark SQL, ETL Orchestration |
+| **Cloud Native** | Infrastructure as Code (Terraform), Docker, EKS/K8s, CI/CD Pipelines |
+| **API Architecture** | Flask, RESTful Design, Async Processing, Secure Auth (OAuth2) |
+| **Data Standards** | HL7 FHIR, OMOP CDM, SQL Schema Optimization, SMART on FHIR |
 
 ---
 
-### 🚀 Selected Engineering Showroom
+### 🏗️ Engineering Case Studies (The "Amazon Way")
 
-<div align="center">
+#### 🚀 **Grid Disruption Forecasting | Outage ML Ops**
+*Focus: Operational Excellence & Data-Driven Decision Making*
+- **The Challenge:** Predicting infrastructure failures to prevent downtime.
+- **The Solution:** Engineered an ensemble ML pipeline (XGBoost/LGBM) achieving a **0.94 F1-score**.
+- **The Impact:** Reduced "Mean Time to Detection" (MTTD) via real-time interactive geospatial dashboards.
 
-| 🏥 Health Informatics | 📊 Big Data & Analytics |
-| :--- | :--- |
-| **[FHIR-RAG-Clinical-AI](https://github.com/jineshptl/FHIR-RAG-Clinical-AI-Integration)**<br>_Retrieval-Augmented Generation for medical records._<br>• OpenAI LLM Integration<br>• Structured Data Extraction<br>• HIPAA-ready Logic | **[PySpark NYC Taxi Analysis](https://github.com/jineshptl/GA-Tech---PySpark-NYC-Yellow-Taxi-Datasets)**<br>_Distributed processing at scale._<br>• 10M+ Row Processing<br>• Cloud Compute Optimization<br>• Spark SQL Aggregations |
-| **[SMART-on-FHIR Client](https://github.com/jineshptl/SMART-on-FHIR-Angular-Client)**<br>_Secure healthcare web portal._<br>• OAuth2 Authorization<br>• Angular Implementation<br>• Real-time EHR Launching | **[Grid Disruption Forecasting](https://github.com/jineshptl/grid-disruption-analysis)**<br>_Infrastructure outage ML._<br>• F1-Score: 0.94<br>• Ensemble Modeling (XGBoost)<br>• Predictive Time-Series |
+#### 🏥 **Clinical RAG Integration | GenAI + FHIR**
+*Focus: Invent & Simplify*
+- **The Challenge:** Extracting insights from unstructured AI queries against structured clinical data.
+- **The Solution:** Built a **Retrieval-Augmented Generation (RAG)** pipeline using OpenAI and FHIR bundles.
+- **The Impact:** Streamlined medical record analysis for clinicians, reducing manual data-wrangling time.
 
-</div>
-
----
-
-### 📊 Engineering Metrics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jineshptl&show_icons=true&theme=algolia&hide_border=true&title_color=0078D4" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jineshptl&layout=compact&theme=algolia&hide_border=true&title_color=0078D4" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jineshptl&theme=github-compact&radius=10" width="100%" />
-</div>
+#### 🚕 **Distributed ETL: NYC Taxi Analysis | Big Data**
+*Focus: Deliver Results & Frugality*
+- **The Challenge:** Processing 10M+ rows of trip data with minimal compute cost.
+- **The Solution:** Optimized distributed transforms using **PySpark** and Hadoop on cloud clusters.
+- **The Impact:** Identified high-traffic bottlenecks while maintaining 100% cost-accountability on cloud spend.
 
 ---
 
-### 🎓 Qualifications
-* **MS in Computer Science** — Georgia Institute of Technology (DVA & Health Tech specialization)
-* **BS in Computer Science** — Framingham State University
-* **ServiceNow Certified System Administrator** (CSA)
+### 📊 Engineering Velocity
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jineshptl&show_icons=true&theme=amazon&hide_border=true&title_color=FF9900&icon_color=FF9900" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jineshptl&layout=compact&theme=amazon&hide_border=true&title_color=FF9900" />
+</p>
 
 ---
+
+### 🎓 Qualifications & "Day 1" Mindset
+- **MS in Computer Science** | Georgia Institute of Technology (Focus: Big Data & Health Tech)
+- **BS in Computer Science** | Framingham State University
+- **ServiceNow Certified System Administrator** (CSA)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/jineshptl/jineshptl/output/snake.svg" alt="snake animation"/>
   <br />
-  <i>"Efficiency is doing things right; effectiveness is doing the right things."</i>
+  <b>"Still Day 1."</b>
 </div>
